@@ -1,0 +1,27 @@
+{
+    "name": "Premier League APP",
+    "short_name": "PL APP",
+    "description": "Aplikasi PWA PL League",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#26BBFF",
+    "theme_color": "#26BBFF",
+    "gcm_sender_id": "1043660361020",
+    "icons": [
+        {
+            "src": "./assets/images/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/images/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        }
+    ]
+}
